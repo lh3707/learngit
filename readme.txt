@@ -12,3 +12,4 @@ creating a new branch and switch is quick:
 or:
 	git branch dev
 	git checkout dev
+Resolving Conflicts.
