@@ -13,3 +13,4 @@ or:
 	git branch dev
 	git checkout dev
 Resolving Conflicts.
+review git knowledge.
