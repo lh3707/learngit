@@ -1,4 +1,4 @@
-2010.10.14
+2017.10.14
 HongLIU
 
 Git is a version control system.
@@ -18,3 +18,10 @@ review git knowledge.
 2017.11.13
 HongLIU
 test push the file to github!
+
+2018.04.24
+HongLIU
+Review basic operation of git!
+Forget most of it! I'm so busy these days for studing Data Stuctures and
+Algorithms.
+That's all! You can do it!
